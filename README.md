@@ -10,3 +10,5 @@ import StarRating from "bstarrating";
   console.log("Çalışıyor!");
 }}
 ```
+## NPMJS Link
+https://www.npmjs.com/package/bstarrating
