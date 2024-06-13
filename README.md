@@ -1,6 +1,6 @@
 ## Install
 ```
-    npm i bstarrating
+npm i bstarrating
 ```
 ## Usage
 ```
